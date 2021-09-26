@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Github open repos</string>
+    <string name="id_text">(%1$s)</string>
+    <string name="repo_name_text">\"%1$s\"</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="share">share</string>
+    <string name="retry">Повторить</string>
+    <string name="error_message">При загрузке данных произошла ошибка. Проверьте ваше подключение к сети</string>
+    <string name="toast_error_message">Не получилось загрузить следующие репозитории</string>
 </resources>
